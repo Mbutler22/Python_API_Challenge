@@ -18,6 +18,6 @@ g_key ="API_KEY_HERE"
 
 The findings of these analysis showed that there is a higher temperature for cities that found near the equator, however, when we go farther from the equator towards the north the temperature decreases. On the other hand, even though the temperature decreases as we go south, it decreases at a much lower rate compared to the north. The regression analysis and plot also showed that there is a strong negative correlation between temperature and latitude in the northern hemisphere as well as the southern.
 
-The findings from the analysis of the relationship between wind speed(mph), and latitude showed that the cities closest to the equator had the lowest wind speed.  in theThe regression analysis also showed that there is a low positive correlation between Wind Speed and Latitude in the Northern Hemisphere cities.
+The findings from the analysis of the relationship between wind speed(mph), and latitude showed that the cities closest to the equator had the lowest wind speed. The regression analysis also showed that there is a low positive correlation between Wind Speed and Latitude in the Northern Hemisphere cities.
 
 
